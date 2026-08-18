@@ -3,6 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <title>HelpDesk - Solicitudes</title>
+    <link rel="stylesheet" href="{{ asset('css/requests/index.css') }}">
 </head>
 
 <body>
